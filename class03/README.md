@@ -1,7 +1,6 @@
 <<<<<<< Updated upstream
-# Read03
-=======
-# read03
+# ReadingNotes
+
 >>>>>>> Stashed changes
 ## Different types of Version Control
 
@@ -79,3 +78,7 @@ Git files have three main states
 =======
 
 >>>>>>> Stashed changes
+
+## Thing I want to know more about
+
+1. how will group work look in Git coders can collab on projects on here
