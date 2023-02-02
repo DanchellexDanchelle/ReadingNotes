@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 # Read03
+=======
+# read03
+>>>>>>> Stashed changes
 ## Different types of Version Control
 
 Version Control is a way to revisit changes you made to a file/files
@@ -25,6 +29,17 @@ Git files have three main states
 3. Staged
      * Flagged a file's changed version to be committed in the next snapshot
      
+<<<<<<< Updated upstream
+=======
+     ## Download Git 
+     Git can Be downloaded three different ways
+     1. Install as a Package
+     2. Install via another installer
+     3. Download and compile the source code
+     
+  Install w/ Ubuntu : $ sudo apt-get install git
+  
+>>>>>>> Stashed changes
   
 ## Initial Customiztion 
  Once git has been installed you should customization setting which you only have to be done once but can be changed
@@ -38,6 +53,7 @@ Git files have three main states
  3. then you commit 
  ![image](https://user-images.githubusercontent.com/123973263/216150358-0b1fa89c-e659-4258-9dc4-0111012dc946.png)
 
+<<<<<<< Updated upstream
   ## Download Git 
      Git can Be downloaded three different ways
      1. Install as a Package
@@ -60,3 +76,6 @@ Git files have three main states
    * $ git push origin master
 5. Stashing Changes
    * git stash 
+=======
+
+>>>>>>> Stashed changes
