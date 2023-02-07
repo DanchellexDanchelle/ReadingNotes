@@ -24,7 +24,7 @@ Another Declaration is this example is Font-size and that vaule is "5em".
 
 CSS Properties have different vaules depending the property. The Color Property can only have color vaules. Font-size Property.
 
- ### CSS Modules 
+### CSS Modules 
 
 CSS sytles everything on a webpage so its only right that CSS it brokedown in different modules. 
 
