@@ -116,8 +116,7 @@ The images is put in the position that you code it in.In the example they also u
 
 Semantics is the *meaning* of the piece of code. you can also think of it as the purpose of the code. 
 
-### Semantics in JS
+## thing I want to know More about 
 
-### Semantics in CSS
-
-### Semantics in HTML 
+* I'm not sure how the semantics are different in each code language.
+* I see how all the elements work but the combination of elements , attribute and vaules are confusing is there a simplier way to clear it up. 
