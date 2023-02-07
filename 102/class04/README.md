@@ -73,15 +73,51 @@ Void ELements are elements that have no content. Void elements could the result 
 
 ### Anatomy of an HTML Doc 
 
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>My test page</title>
-  </head>
-  <body>
-    <img src="images/firefox-icon.png" alt="My test image" />
-  </body>
-</html>
+1. < ! doc type html >
+    -Is a reqiured preamble. 
 
+2. < html >< /html >
+    -this is a element that wraps all the content on the page and is also know as a root element. this also has a lang attribute setting the primary lanaguage of the doc.
+
+3. < head > </ head > 
+    - This element acts as a container for all the things you want to include but **isnt** seen by the users. 
+
+4. < Meta charset= "utf-8 > 
+    - This element sets the character And basically cna handle all textual content you add. 
+
+5. < meta name="viewport" content="width=device-width" >
+    -This is a  viewpoint element. It controls the width within the page.
+
+6. < title > < /title >
+    -This element set the title of your page and will also be the name in the broswer and bookmarks.
+
+7. < body >< /body >
+    - this element has **all** the information you want to show to the users when they visit. such as images , text, games,etc 
+
+### Images 
+
+example: < img src="images/firefox-icon.png" alt="My test image" />
+
+the code element for images is < img > 
+The images is put in the position that you code it in.In the example they also used a "alt" attribute and this is to describe the image to those who cant see it for any reason. 
+
+### Marking up Text
+
+- Headings < h(1-6) > 
+- Paragraph  < p > < /p >
+- List have two different types.
+    * Unordered listed < ul >
+    * Ordered Lists < ol >
+    * Each item on the list will have < li > attrached to in the list 
+- Links are texted wrapped with a < a > element , Then give the < a > a Href attribute Lastly add the vaule with a web address. 
+    * example = < a href= " https://www.texttest.com/en/about/iasoci/" > Test text< /a >
+
+## Semantics
+
+Semantics is the *meaning* of the piece of code. you can also think of it as the purpose of the code. 
+
+### Semantics in JS
+
+### Semantics in CSS
+
+### Semantics in HTML 
