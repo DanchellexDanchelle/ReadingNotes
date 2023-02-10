@@ -122,4 +122,50 @@ The coding 'if' and 'else' means true and false.
 
 ## JavaScript Variables
 
+### Variables
+
+Variables are containers for storing data. 
+
+    var x = 5;
+    var y = 6;
+    var z = x + y;
+
+In this Example the variables are x, y ,z .
+
+    let x = 5;
+    let y = 6;
+    let z = x + y;
+
+In this example x,y,z get value from let; without let they would be undeclared variables
+
+### When to use JavaScript Var, Let, or Const
+
+1. Javascript Var is used when you code for older browsers.
+2. Javascript Const is used when there is a general rule set for variables.
+3. Javascript Let is used when the vaule of variables can change.
+
+    const price1 = 5;
+
+    const price2 = 6;
+
+    let total = price1 + price2
+
+const are the prices beacause they wont change but the total can thats why it has let.
+
+### JavaScript Identifiers
+
+All JavaScript **variables** must be **identified** w/ **unique names**
+
+These unique names are called identifers. Identifers can have short nameslike x,v,s or long ones like age , sum,totalVolume. finding names for them must fix within the rules
+
+* Names can contain letters, digits, underscores, and dollar signs.
+* Names must begin with a letter.
+* Names can also begin with $ and _ (but we will not use it in this tutorial).
+* Names are case sensitive (y and Y are different variables).
+* Reserved words (like JavaScript keywords) cannot be used as names.
+
+### JavaScript Data Types 
+
+JS variables can hold number and text. The text values are called text strings.
+Text
 
